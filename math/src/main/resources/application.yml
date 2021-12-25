@@ -1,0 +1,4 @@
+api:
+  version: v1
+  name: math-api
+  endpoint: tables
