@@ -4,5 +4,3 @@ api:
   uri:
     base: ${api.version}/${api.name}
     square : square
-server:
-  port: 8080
